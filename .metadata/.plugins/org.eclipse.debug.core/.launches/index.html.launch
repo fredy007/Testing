@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.genuitec.eclipse.javascript.debug.core.jsWebAppLaunchConfigurationType">
+<stringAttribute key="DeployedPath" value="/WS_Jquery/WebContent/index.html"/>
+<stringAttribute key="InitialURL" value="http://localhost:8080/WS_Jquery/index.html"/>
+<stringAttribute key="jsAppBrowserLaunchingDelegateId" value="com.genuitec.eclipse.javascript.debug.chrome.webAppBrowser"/>
+<stringAttribute key="jsAppTypeLaunchingDelegateId" value="com.genuitec.eclipse.javascript.core.generic.webAppType"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/WS_Jquery/WebContent/index.html"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+</launchConfiguration>

@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<watchExpressions>\n<expression enabled\="true" text\="json"/>\n<expression enabled\="true" text\="json.get(&quot;map&quot;)"/>\n<expression enabled\="true" text\="json.getString('map')"/>\n<expression enabled\="true" text\="jsonf.get(&quot;JWT&quot;)"/>\n</watchExpressions>\n

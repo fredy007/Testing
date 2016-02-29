@@ -1,0 +1,57 @@
+package net.viralpatel.servlet.filters;
+
+import java.io.InputStream;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.URL;
+
+public class Testing_ResourceServer {
+
+	public static void main(String[] args)  {
+		// TODO Auto-generated method stub
+		
+		//Utils.getTokenJWT("contpaqi", "1234");
+		
+		//Utils.validateToken("eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJjb250cGFxaSIsImF1ZCI6Ik5vdFJlYWxseUltcG9ydGFudCIsImlhdCI6MTQ1NjM1OTQ2NCwiZXhwIjoxNDU2NDQ1ODY0LCJpbmZvIjp7InVzZXJJZCI6ImNvbnRwYXFpIn19.0r1u81vCPj3PjsLrJTdqBEusOrDB1pFXrYIsC9xqZiA");
+		
+		
+		final String urlString = "http://localhost:8080/Servlet_Filter/index.jsp";
+		
+		URL url;
+		HttpURLConnection con;
+		
+		try {
+			
+			url = new URL( urlString );
+			con = (HttpURLConnection) url.openConnection();
+			
+		    con.setRequestMethod( "GET" );
+		    con.setDoInput( true );
+		    
+		    con.setRequestProperty("Authorization", "Bearer 1234");
+		    
+		    // pull the information back from the URL
+		    InputStream is = con.getInputStream();
+		    StringBuffer buf = new StringBuffer();
+		    int c;
+		    while( ( c = is.read() ) != -1 ) {
+		      buf.append( (char) c );
+		    }
+		    con.disconnect();
+
+		    // output the information
+		    System.out.println( buf );
+			
+			
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		
+		
+		
+
+	}
+
+}

@@ -1,0 +1,88 @@
+package net.viralpatel.servlet.filters;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.URL;
+
+import org.json.JSONArray;
+import org.json.JSONObject;
+import org.json.JSONTokener;
+
+public class Utils {
+	
+	/**
+	 * Funtion to consume Restful Web Services that generate the JWT
+	 * @param user
+	 * @param password
+	 * @return JWT
+	 */
+	static public String getTokenJWT(String user, String password)
+	{
+		
+		
+		URL url;
+		BufferedReader br;
+		StringBuilder builder;
+		HttpURLConnection conn;
+		
+		
+		
+		
+		String Uri = "http://localhost:8080/ontogov/r/webservicesjwt/getJWT_Token/"
+				+ user
+				+ "/"
+				+ password;
+		
+		try {
+			
+			url = new URL(Uri);
+			conn = (HttpURLConnection) url.openConnection();
+			
+			conn.setRequestMethod("GET");
+			conn.setRequestProperty("Accept", "application/json");
+			
+			if (conn.getResponseCode() != 200) {
+				throw new RuntimeException("Failed : HTTP error code : "  + conn.getResponseCode());
+			}
+
+			br = new BufferedReader(new InputStreamReader((conn.getInputStream())));
+
+		    builder = new StringBuilder();
+			
+			
+			for (String line = null; (line = br.readLine()) != null;) {
+			    builder.append(line).append("\n");
+			}
+			
+			JSONObject json = new JSONObject(builder.toString());
+			
+
+			
+
+			
+			//JSONObject root = new JSONObject(jo_jwt);
+			
+			//finalResult = new JSONArray(jo_jwt);
+			
+			//System.out.println(finalResult.getString("JWT"));
+
+			conn.disconnect();
+		
+		
+		
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		
+		
+		return "";
+		
+	}
+	
+
+}

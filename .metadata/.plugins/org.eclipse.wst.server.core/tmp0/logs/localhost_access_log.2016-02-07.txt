@@ -1,0 +1,9 @@
+127.0.0.1 - - [07/Feb/2016:08:13:03 -0600] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [07/Feb/2016:08:13:06 -0600] "GET /WS_Jquery/index.html HTTP/1.1" 200 220
+127.0.0.1 - - [07/Feb/2016:08:14:27 -0600] "GET /WS_Jquery/index.html HTTP/1.1" 200 220
+127.0.0.1 - - [07/Feb/2016:08:14:27 -0600] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [07/Feb/2016:08:15:57 -0600] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [07/Feb/2016:08:15:57 -0600] "GET /WS_Jquery/index.html HTTP/1.1" 200 280
+127.0.0.1 - - [07/Feb/2016:08:16:07 -0600] "GET /WS_Jquery/index.html HTTP/1.1" 200 280
+127.0.0.1 - - [07/Feb/2016:08:16:07 -0600] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [07/Feb/2016:08:49:30 -0600] "GET /RestfulWebService/rest/ConversionService/http:/localhost:8080/RestfulWebService/rest/ConversionService/CelsiusToFahrenheit/10 HTTP/1.1" 404 1201

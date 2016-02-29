@@ -1,0 +1,10 @@
+127.0.0.1 - - [04/Feb/2016:08:41:47 -0600] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [04/Feb/2016:08:41:51 -0600] "GET /ontogov/Index.jsp HTTP/1.1" 500 2807
+127.0.0.1 - - [04/Feb/2016:08:42:23 -0600] "GET /ontogov/Template.jsp HTTP/1.1" 200 4705
+127.0.0.1 - - [04/Feb/2016:08:42:23 -0600] "GET /ontogov/Styles.css HTTP/1.1" 200 65
+127.0.0.1 - - [04/Feb/2016:08:42:28 -0600] "POST /ontogov/Template.jsp HTTP/1.1" 500 4478
+127.0.0.1 - - [04/Feb/2016:08:42:38 -0600] "GET /ontogov/Template.jsp HTTP/1.1" 200 4705
+127.0.0.1 - - [04/Feb/2016:08:42:42 -0600] "POST /ontogov/Template.jsp HTTP/1.1" 500 3497
+127.0.0.1 - - [04/Feb/2016:08:46:01 -0600] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [04/Feb/2016:08:46:17 -0600] "GET /ontogov/Template.jsp HTTP/1.1" 200 4705
+127.0.0.1 - - [04/Feb/2016:17:29:17 -0600] "POST /ontogov/Template.jsp HTTP/1.1" 500 4478

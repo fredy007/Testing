@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Feb 25 20:16:30 CST 2016
+org.eclipse.jst.jee.server\:/binary\:/root/.m2/repository/org/springframework/spring-web/4.2.4.RELEASE/spring-web-4.2.4.RELEASE.jar=WEB-INF/lib/spring-web-4.2.4.RELEASE.jar
+org.eclipse.jst.j2ee.server\:/binary\:/root/.m2/repository/org/springframework/spring-web/4.2.4.RELEASE/spring-web-4.2.4.RELEASE.jar=WEB-INF/lib/spring-web-4.2.4.RELEASE.jar

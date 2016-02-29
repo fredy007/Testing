@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Genuitec</title>
+	<atom:link href="https://www.genuitec.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.genuitec.com</link>
+	<description>The Cloud Control Company</description>
+	<lastBuildDate>Sat, 27 Feb 2016 16:54:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Today Mars 4.5.2 SR2 drops at Eclipse.org</title>
+		<link>https://www.genuitec.com/today-mars-4-5-2-sr2-drops-at-eclipse-org/</link>
+		<comments>https://www.genuitec.com/today-mars-4-5-2-sr2-drops-at-eclipse-org/#comments</comments>
+		<pubDate>Fri, 26 Feb 2016 13:36:00 +0000</pubDate>
+		<dc:creator><![CDATA[Anabella]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[products]]></category>
+		<category><![CDATA[Secure Delivery Center]]></category>
+		<category><![CDATA[Eclipse Mars]]></category>
+		<category><![CDATA[endgame plan]]></category>
+		<category><![CDATA[release]]></category>
+		<category><![CDATA[SDC]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=471702</guid>
+		<description><![CDATA[<p>Today Mars 4.5.2 SR2 drops at Eclipse.org — and for SDC too!There is a reason behind the fact that thousands of people make a line outside a store the day of a new product release. We love technology, and we simply count the days before we get our hands on it. We understand that same [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/today-mars-4-5-2-sr2-drops-at-eclipse-org/">Today Mars 4.5.2 SR2 drops at Eclipse.org</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/today-mars-4-5-2-sr2-drops-at-eclipse-org/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SDC 2015 SR4 is now ready to roll!</title>
+		<link>https://www.genuitec.com/sdc-2015-sr4-is-now-ready-to-roll/</link>
+		<comments>https://www.genuitec.com/sdc-2015-sr4-is-now-ready-to-roll/#comments</comments>
+		<pubDate>Wed, 24 Feb 2016 20:04:32 +0000</pubDate>
+		<dc:creator><![CDATA[Anabella]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[SDC]]></category>
+		<category><![CDATA[SR4]]></category>
+		<category><![CDATA[webclipse]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=471557</guid>
+		<description><![CDATA[<p>Over the last couple of months we have had many important releases go out the door for MyEclipse and our latest product, Webclipse. It was time for Secure Delivery Center to catch up, and to be able to provide you and your team with all these features with just a few clicks.SDC 2015 SR4 allows [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/sdc-2015-sr4-is-now-ready-to-roll/">SDC 2015 SR4 is now ready to roll!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/sdc-2015-sr4-is-now-ready-to-roll/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Server Domains: All You Need to Know</title>
+		<link>https://www.genuitec.com/server-domains/</link>
+		<comments>https://www.genuitec.com/server-domains/#comments</comments>
+		<pubDate>Wed, 17 Feb 2016 15:41:30 +0000</pubDate>
+		<dc:creator><![CDATA[lak-proddev]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Webclipse]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=470957</guid>
+		<description><![CDATA[<p>The concept of “server domains” is familiar to those who use Sun related servers such as, GlassFish, WebLogic, Sun Java System Application Server (SJSAS), Payara, etc. Similar concepts are in other application servers, such as domains in JBoss and Wildfly, and profiles in WebSphere. This article is based on Sun related servers, mainly GlassFish and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/server-domains/">Server Domains: All You Need to Know</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/server-domains/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MyEclipse Twitter Chat &#8211; Recap Feb 16th</title>
+		<link>https://www.genuitec.com/myeclipse-twitter-chat-recap-feb-16th/</link>
+		<comments>https://www.genuitec.com/myeclipse-twitter-chat-recap-feb-16th/#comments</comments>
+		<pubDate>Tue, 16 Feb 2016 18:07:35 +0000</pubDate>
+		<dc:creator><![CDATA[Rocio Trujillo]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[coder]]></category>
+		<category><![CDATA[Eclipse Mars]]></category>
+		<category><![CDATA[java 8]]></category>
+		<category><![CDATA[JDK]]></category>
+		<category><![CDATA[Twitter Chat]]></category>
+		<category><![CDATA[Web Development]]></category>
+		<category><![CDATA[webclipse]]></category>
+		<category><![CDATA[WebSphere]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=471067</guid>
+		<description><![CDATA[<p>Hello! here is the Genuitec Twitter chat recap! in case you missed it 😉Q1 For those new to @MyEclipseIDE, what&#8217;s the difference between the Stable stream vs CI stream? A1.Stable stream has less frequent updates;the CI stream has new features that while functional, are continuing to be tweaked. A1. Both the MyEclipse Stable and CI [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/myeclipse-twitter-chat-recap-feb-16th/">MyEclipse Twitter Chat &#8211; Recap Feb 16th</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/myeclipse-twitter-chat-recap-feb-16th/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Developers Are From Mars</title>
+		<link>https://www.genuitec.com/developers-are-from-mars/</link>
+		<comments>https://www.genuitec.com/developers-are-from-mars/#comments</comments>
+		<pubDate>Wed, 10 Feb 2016 14:46:59 +0000</pubDate>
+		<dc:creator><![CDATA[Anabella]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[MyEclipse Top News]]></category>
+		<category><![CDATA[Developers]]></category>
+		<category><![CDATA[gerrit]]></category>
+		<category><![CDATA[MARS]]></category>
+		<category><![CDATA[PhoneGap]]></category>
+		<category><![CDATA[slack]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=470100</guid>
+		<description><![CDATA[<p>Developers are from Mars (MyEclipse now is too)Just when you think MyEclipse can’t get any better, we go ahead and make it to Mars. Recently we announced the launch of MyEclipse Stable 3.0. MyEclipse 3.0 came loaded with hot new features, among them Slack integration, Gerrit workflow automation, a new breadcrumb toolbar, along with fixes [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/developers-are-from-mars/">Developers Are From Mars</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/developers-are-from-mars/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Command Handler Guide for Eclipse</title>
+		<link>https://www.genuitec.com/command-handler/</link>
+		<comments>https://www.genuitec.com/command-handler/#comments</comments>
+		<pubDate>Thu, 28 Jan 2016 16:54:49 +0000</pubDate>
+		<dc:creator><![CDATA[vasanthis]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Webclipse]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=466687</guid>
+		<description><![CDATA[<p>Introduction to Command Handlers in EclipseA command is the declaration of a behavior by id.  Commands are used to declare semantic behavior and the corresponding action implementations can be defined elsewhere by handlers.There are several advantages of command handlers:Defining menu contribution and commands uses same set of extensions points for multiple scenarios.UI and handling are not [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/command-handler/">Command Handler Guide for Eclipse</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/command-handler/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>No such thing as too many releases</title>
+		<link>https://www.genuitec.com/no-such-thing-as-too-many-releases/</link>
+		<comments>https://www.genuitec.com/no-such-thing-as-too-many-releases/#comments</comments>
+		<pubDate>Fri, 15 Jan 2016 18:54:03 +0000</pubDate>
+		<dc:creator><![CDATA[Anabella]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[MyEclipse Top News]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[ci stream]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[developer]]></category>
+		<category><![CDATA[Emmet]]></category>
+		<category><![CDATA[PhoneGap]]></category>
+		<category><![CDATA[webclipse]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=464957</guid>
+		<description><![CDATA[<p>We wanted to start the year the right way, and for us the right way means adding new tools that will improve on every way possible your coding experience, even if that means we gotta apply this to all our products. So be it! Whether it’s a traditional Java EE desktop application, web front or [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/no-such-thing-as-too-many-releases/">No such thing as too many releases</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/no-such-thing-as-too-many-releases/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Understanding RAML</title>
+		<link>https://www.genuitec.com/understanding-raml/</link>
+		<comments>https://www.genuitec.com/understanding-raml/#comments</comments>
+		<pubDate>Mon, 04 Jan 2016 15:21:37 +0000</pubDate>
+		<dc:creator><![CDATA[Srivatsan Sundararajan]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Webclipse]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=460602</guid>
+		<description><![CDATA[<p>What is RAML?RAML stands for RESTful API Modeling Language. It is a YAML based language for defining RESTful APIs and contains all the necessary information to describe RESTful APIs. YAML is a data serialization language that is easier to read and understand than other formats like XML or JSON.More details on RAML and its usage [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/understanding-raml/">Understanding RAML</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/understanding-raml/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GapDebug 2.2: iOS debugging with the latest Chrome</title>
+		<link>https://www.genuitec.com/gapdebug-2-2-released/</link>
+		<comments>https://www.genuitec.com/gapdebug-2-2-released/#comments</comments>
+		<pubDate>Wed, 16 Dec 2015 18:00:59 +0000</pubDate>
+		<dc:creator><![CDATA[Genuitec Administrator]]></dc:creator>
+				<category><![CDATA[GapDebug]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[app installation]]></category>
+		<category><![CDATA[cordova]]></category>
+		<category><![CDATA[debug PhoneGap]]></category>
+		<category><![CDATA[gapdebug]]></category>
+		<category><![CDATA[instant debugging]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[PhoneGap]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=460401</guid>
+		<description><![CDATA[<p>We are excited to announce the release of GapDebug 2.2! It was particularly challenging to update the iOS debugger due to a major change in the Chrome browser (ver 48). With some clever ideas and hard work we reimplemented the missing compatibility that we previously relied upon.  We are proud to provide you this update.iOS [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/gapdebug-2-2-released/">GapDebug 2.2: iOS debugging with the latest Chrome</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/gapdebug-2-2-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SDC Twitter chat &#8211; Recap Dec 1st</title>
+		<link>https://www.genuitec.com/sdc-twitter-chat-recap-dec-1st/</link>
+		<comments>https://www.genuitec.com/sdc-twitter-chat-recap-dec-1st/#comments</comments>
+		<pubDate>Wed, 02 Dec 2015 15:52:03 +0000</pubDate>
+		<dc:creator><![CDATA[Rocio Trujillo]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[Secure Delivery Center]]></category>
+		<category><![CDATA[CODE]]></category>
+		<category><![CDATA[developer]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[egit]]></category>
+		<category><![CDATA[maven]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[team delivery]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=459386</guid>
+		<description><![CDATA[<p>Here is the Twitter chat recap in case you missed it!Q1. What&#8217;s new with @Genuitec_SDC? Any new releases to update on? A1. The most recent update is a new Popular Pack bundling top software for developersA1. The latest Pack has 14 New Software entries, 30 Updated Software entries from previous versions A1. This includes updates [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/sdc-twitter-chat-recap-dec-1st/">SDC Twitter chat &#8211; Recap Dec 1st</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/sdc-twitter-chat-recap-dec-1st/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jersey vs. RESTEasy: A JAX-RS Implementation Comparison</title>
+		<link>https://www.genuitec.com/jersey-resteasy-comparison/</link>
+		<comments>https://www.genuitec.com/jersey-resteasy-comparison/#comments</comments>
+		<pubDate>Wed, 25 Nov 2015 20:47:38 +0000</pubDate>
+		<dc:creator><![CDATA[Wojciech Galanciak]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Webclipse]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=458948</guid>
+		<description><![CDATA[<p>IntroductionTwo frameworks have emerged to simplify the development of RESTful web services and applications in Java—Jersey and RESTEasy. These frameworks are two of the most popular implementations of the JAX-RS standard. Both frameworks provide a nice feature set that simplifies the development of REST APIs. Sometimes the implementation is different, but their capabilities are very similar.The [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/jersey-resteasy-comparison/">Jersey vs. RESTEasy: A JAX-RS Implementation Comparison</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/jersey-resteasy-comparison/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Exploring TypeScript Support in Eclipse</title>
+		<link>https://www.genuitec.com/exploring-typescript-support-in-eclipse/</link>
+		<comments>https://www.genuitec.com/exploring-typescript-support-in-eclipse/#comments</comments>
+		<pubDate>Tue, 24 Nov 2015 14:34:42 +0000</pubDate>
+		<dc:creator><![CDATA[aaronlonin]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Planet Eclipse]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=458744</guid>
+		<description><![CDATA[<p>&#160;TypeScript is an open source superset of JavaScript that adds class based objects that compile to JavaScript plain code. Currently there are two main options to support TypeScript in Eclipse. I’m going to discuss their features and pros and cons of each.Palantir’s TypeScript (Version 1.6.0.v20151006)This plugin offers minimal support for TypeScript and uses the official TypeScript [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/exploring-typescript-support-in-eclipse/">Exploring TypeScript Support in Eclipse</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/exploring-typescript-support-in-eclipse/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Webclipse goes GA and stays free (mostly!)</title>
+		<link>https://www.genuitec.com/webclipse-goes-ga-and-stays-free-mostly/</link>
+		<comments>https://www.genuitec.com/webclipse-goes-ga-and-stays-free-mostly/#comments</comments>
+		<pubDate>Fri, 20 Nov 2015 14:25:55 +0000</pubDate>
+		<dc:creator><![CDATA[Rocio Trujillo]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[coder]]></category>
+		<category><![CDATA[developer]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[gerrit]]></category>
+		<category><![CDATA[webclipse]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=458525</guid>
+		<description><![CDATA[<p>OK so here is a recap of how our Webclipse launch went up to this day. It seems like it was just yesterday we were announcing our early adopters phase, and now we are announcing it is ready for general use. Look at us, growing up and stuff!Since the very beginning we were amazed by [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/webclipse-goes-ga-and-stays-free-mostly/">Webclipse goes GA and stays free (mostly!)</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/webclipse-goes-ga-and-stays-free-mostly/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GapDebug Twitter chat &#8211; Recap Nov 17th</title>
+		<link>https://www.genuitec.com/gapdebug-twitter-chat-recap-nov-17th/</link>
+		<comments>https://www.genuitec.com/gapdebug-twitter-chat-recap-nov-17th/#comments</comments>
+		<pubDate>Wed, 18 Nov 2015 17:20:17 +0000</pubDate>
+		<dc:creator><![CDATA[Rocio Trujillo]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[bug]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[coder]]></category>
+		<category><![CDATA[developer]]></category>
+		<category><![CDATA[gapdebug]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=458394</guid>
+		<description><![CDATA[<p>Here is the Twitter chat recap in case you missed it!Q1. For those new to @GapDebug, what&#8217;s the quick elevator pitch A1. @GapDebug is a free #crossplatform debugger for #cordova #iOS and #Android applications w/ basic app mgmt supt. A1. brief history of GD 1.0 released Oct last year, updated approx every 8-10 weeks, free [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/gapdebug-twitter-chat-recap-nov-17th/">GapDebug Twitter chat &#8211; Recap Nov 17th</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/gapdebug-twitter-chat-recap-nov-17th/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Genuitec at EclipseCon Europe 2015</title>
+		<link>https://www.genuitec.com/genuitec-at-eclipse-con-europe-2015/</link>
+		<comments>https://www.genuitec.com/genuitec-at-eclipse-con-europe-2015/#comments</comments>
+		<pubDate>Tue, 10 Nov 2015 22:52:37 +0000</pubDate>
+		<dc:creator><![CDATA[Rocio Trujillo]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[CODE]]></category>
+		<category><![CDATA[developer]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[EUROPE]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=457647</guid>
+		<description><![CDATA[<p>Hello fellow developers!Last week we had the honor to participate at EclipseCon Europe 2015, this time in Ludwigsburg, Germany! (Not too shabby!)Needless to say, we had a wonderful time there. During our time at EclipseCon we were able to show demos of our newest product family addition “Webclipse”, and all the very useful features that [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/genuitec-at-eclipse-con-europe-2015/">Genuitec at EclipseCon Europe 2015</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/genuitec-at-eclipse-con-europe-2015/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching 43/45 queries in 0.021 seconds using disk
+Object Caching 2097/2198 objects using disk
+Content Delivery Network via resources.cloud.genuitec.com
+
+ Served from: www.genuitec.com @ 2016-02-28 15:35:55 by W3 Total Cache -->

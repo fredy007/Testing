@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.genuitec.eclipse.javascript.debug.core.jsWebAppLaunchConfigurationType">
+<stringAttribute key="DeployedPath" value="/Webclipse-JSDebug-WebApp-Example"/>
+<stringAttribute key="InitialURL" value="http://download.eclipse.org/tools/atf/updates/0.3.0"/>
+<booleanAttribute key="IsMapped" value="true"/>
+<booleanAttribute key="browser.chrome.disableCache" value="true"/>
+<booleanAttribute key="browser.chrome.showConsole" value="false"/>
+<stringAttribute key="chrome.exe" value="/opt/google/chrome/google-chrome"/>
+<stringAttribute key="jsAppBrowserLaunchingDelegateId" value="com.genuitec.eclipse.javascript.debug.chrome.webAppBrowser"/>
+<stringAttribute key="jsAppTypeLaunchingDelegateId" value="com.genuitec.eclipse.javascript.core.generic.webAppType"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Webclipse-JSDebug-WebApp-Example"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.ui.favoriteGroups">
+<listEntry value="org.eclipse.debug.ui.launchGroup.debug"/>
+</listAttribute>
+</launchConfiguration>

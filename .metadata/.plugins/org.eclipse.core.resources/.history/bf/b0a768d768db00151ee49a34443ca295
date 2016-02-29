@@ -1,0 +1,53 @@
+package com.knowitive.ontogov.controller;
+
+import org.json.JSONObject;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+
+
+@RestController
+@RequestMapping("/webservicesjwt")
+public class webServicesJWT {
+	
+	@RequestMapping(value = "/getJWT_Token/{name}/{password}", method = RequestMethod.GET)
+	 public JSONObject getJWT_Token(@PathVariable String name, @PathVariable String password) {
+	 
+		 //We can improve this part encrypting the user and password and store it in a data base
+		 if(name.equals("contpaqi")  && password.equals("1234")){
+			 
+			 String jwt = com.common.jwtUtils.createJsonWebToken(name,(long) 1 );
+			 
+			 JSONObject jo_jwt = new JSONObject();
+			 jo_jwt.put("JWT", jwt);
+		 
+			 return  jo_jwt;
+		 
+		 }else{
+			 
+			 //INVALID TOKEN IF THE USER AND PASSWORD IS INVALID
+			 return null;
+		 }
+	 }
+	 
+	 
+	 @RequestMapping(value = "/validateJWT_Token/{1}", method = RequestMethod.POST)
+	 public String validateJWT_Token(String token) {
+	 
+		 System.out.println(token);
+		 
+		 if(com.common.jwtUtils.verifyToken(token))
+		 {
+			 
+			 return "Token válido";
+			 
+		 }else
+		 {
+			 return "Token inválido"; 
+		 }
+
+		 	
+	 }
+
+}
